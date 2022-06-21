@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LOL.iml" filepath="$PROJECT_DIR$/.idea/modules/LOL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidBluetoothSerial/LOL.androidBluetoothSerial.iml" filepath="$PROJECT_DIR$/.idea/modules/androidBluetoothSerial/LOL.androidBluetoothSerial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidBluetoothSerial/LOL.androidBluetoothSerial.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidBluetoothSerial/LOL.androidBluetoothSerial.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidBluetoothSerial/LOL.androidBluetoothSerial.main.iml" filepath="$PROJECT_DIR$/.idea/modules/androidBluetoothSerial/LOL.androidBluetoothSerial.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidBluetoothSerial/LOL.androidBluetoothSerial.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/androidBluetoothSerial/LOL.androidBluetoothSerial.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoApplication/LOL.demoApplication.iml" filepath="$PROJECT_DIR$/.idea/modules/demoApplication/LOL.demoApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoApplication/LOL.demoApplication.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demoApplication/LOL.demoApplication.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoApplication/LOL.demoApplication.main.iml" filepath="$PROJECT_DIR$/.idea/modules/demoApplication/LOL.demoApplication.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoApplication/LOL.demoApplication.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/demoApplication/LOL.demoApplication.unitTest.iml" />
+    </modules>
+  </component>
+</project>
